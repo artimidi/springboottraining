@@ -1,0 +1,8 @@
+com/example/usermanagement/services/UserService.class
+com/example/usermanagement/model/User.class
+com/example/usermanagement/UsermanagementApplication.class
+com/example/usermanagement/dto/UserDto.class
+com/example/usermanagement/controllers/UserController.class
+com/example/usermanagement/mappers/UserMapper.class
+com/example/usermanagement/controllers/HelloWorldController.class
+com/example/usermanagement/repository/UserRepository.class
